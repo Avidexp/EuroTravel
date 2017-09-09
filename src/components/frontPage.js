@@ -1,7 +1,7 @@
 import {Button, Jumbotron, Carousel, CarouselItem, Form, Col, FormGroup, FormControl, Checkbox, ControlLabel} from 'react-bootstrap';
 import React from 'react';
 
-export default class Index extends React.Component {
+export default class FrontPage extends React.Component {
     render(){
         return(
             <div>
